@@ -1,0 +1,23 @@
+body {
+    background-color: #dfa8f5;
+    margin: 3% 10% 5%;
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    color: #2f0283;
+}
+
+.sign {
+    text-align: center;
+    margin: 0 3% 0;
+    font-size: 1.5rem;
+}
+
+.tab {
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+}
